@@ -1,70 +1,39 @@
 +++
-# A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/talk/`.
+# My own manual Talks section. 
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 91  # Order that this section will appear.
-
+weight = 100  # Order that this section will appear in.
 title = "Talks"
-subtitle = ""
-
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
-    exclude_past = false
-    exclude_future = false
-    
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 2
-  
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "navy"
-  
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-  
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
 +++
+
+* **Monoidal Categories for Formal Concept Analysis.**
+SEMSPACE 2020. 07/08/20. [Video.](https://www.youtube.com/watch?v=kdAuCyfawrI)
+
+* **Integrated Information in Process Theories.** 
+SEMSPACE 2020. 07/08/20. [Video.](https://www.youtube.com/watch?v=RAoMkFJkkDg)
+
+
+* **Generalised Integrated Information Theories.**
+Models of Consciousness Conference, Mathematical Institute, University of Oxford. 09/09/19. [Video.](https://www.youtube.com/watch?v=mNuuWs2d17Y)
+
+* **Deriving Dagger Compactness.** Quantum Physics and Logic Conference, Chapman University California, 14/06/19.
+
+
+* **Superpositions and Categorical Quantum Reconstructions.**
+Symposium on Compositional Structures, University of Strathclyde, Glasgow, 17/12/18.
+
+* **A Categorical Reconstruction of Quantum Theory.** Quantum Physics and Logic XV Conference, Dalhousie University, 07/06/18. 6th World Congress of Universal Logic, Vichy, 23/06/18.
+
+* **Two Roads to Classicality.** Quantum Physics and Logic XIV Conference, Radboud University Nijmegen, 05/07/17.
+[Video.](https://www.youtube.com/watch?v=IQx6fWuEVVs)
+
+* **Operational Theories of Physics as Categories**. Foundations of Physics 2016 Conference, London School of Economics, 18/07/16.
+
+* **Operational physics, logic and categories.** Categories, Logic and Physics Workshop, University of Edinburgh, 14/04/16. [Video.](https://www.youtube.com/watch?v=ozMLZPQ66rg)
+ 
+*  **A new perspective on internal groupoids and crossed modules.**
+UCL-ULB-VUB Category Theory Seminar, Free University Brussels, 25/01/16.
+
+* **Categories of relations as models of quantum theory.** Quantum Physics and Logic XII Conference, University of Oxford, 17/07/15. [Video.](https://www.youtube.com/watch?v=Y3Oy_8_RFpk)

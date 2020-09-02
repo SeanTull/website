@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 
+role: sean.tull@cambridgequantum.com 
 
 # Organizations/Affiliations
 organizations:
@@ -27,13 +27,13 @@ interests:
 - Cognition and Consciousness
 
 education:
-  courses:
-  - course: DPhil Computer Science 
-    institution: University of Oxford
-    year: 2018
-  - course: MMath Mathematics 
-    institution: University of Cambridge
-    year: 2013
+   courses:
+   - course: DPhil Computer Science 
+     institution: University of Oxford
+     year: 2018
+   - course: MMath Mathematics 
+     institution: University of Cambridge
+     year: 2013
 
 
 # Social/Academic Networking
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:sean.tull@cambridgequantum.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
   link: files/cv.pdf
@@ -75,11 +75,4 @@ I am also interested in pure category theory. More recently I have been studying
 language processing, cognition and consciousness.
 
 
-## Biography
-
-I completed my BA and MMath in Mathematics at Cambridge and DPhil in the [Quantum Group](http://www.cs.ox.ac.uk/activities/quantum/) in the Computer Science Department at the University of Oxford supervised by [Bob Coecke](https://www.cs.ox.ac.uk/people/bob.coecke/) and [Chris Heunen](https://homepages.inf.ed.ac.uk/cheunen/). My thesis was titled [Categorical Operational Physics](https://arxiv.org/abs/1902.00343).  
-
-From 2018 to 2019 I held postdoctoral positions in the Oxford Quantum group and the School of Informatics at the University of Edinburgh. 
-
-Since December 2019 I have been a researcher in the Oxford branch of [Cambridge Quantum Computing](https://cambridgequantum.com/about/). 
 

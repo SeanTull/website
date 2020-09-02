@@ -1,0 +1,6 @@
+PWD /Users/sean/My_Website/content/authors/admin
+INPUT /usr/local/texlive/2019/texmf.cnf
+INPUT /usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/sean/My_Website/content/authors/admin/_index.md
+OUTPUT /Users/sean/My_Website/content/authors/admin/_index.log
