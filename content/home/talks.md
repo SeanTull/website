@@ -8,6 +8,30 @@ weight = 100  # Order that this section will appear in.
 title = "Talks"
 +++
 
+* **Towards Compositional Interpretability for XAI.** Applied Category Theory 2024, Unversity of Oxford. 21/06/24. 
+
+* **Active Inference in String Diagrams.** Paris Mathematical Models of Cognition and Consciousness Seminar, Sorbonne Université, Paris. 29/05/24. 
+
+* **Causal Cognition via String Diagrams.** Causal Cognition in Humans Machines, University of Oxford. 12/01/24. 
+
+* **Active Inference in String Diagrams.** Active Inference Livestream. 01/09/2023. [Video.](https://www.youtube.com/watch?v=p1GMPGBJGfw&ab_channel=ActiveInferenceInstitute)
+
+* **Active Inference in String Diagrams: A Categorical Account of Predictive Processing and the Free Energy Principle.** Applied Category Theory 2023, University of Maryland. 04/08/23. 
+
+* **Causal Models in String Diagrams.** Applied Category Theory 2023, University of Maryland. 02/08/23. 
+
+* **Causal Models in Compositional Intelligence.** Quantum Natural Langauge Processing 2023. Chalmers University of Technology, Gothenburg, Sweden. 17/05/23. 
+
+* **A Categorical Formulation of Predictive Processing.** Category Theory for Consciousness Science workshop, University of Oxford. 15/04/23. 
+
+* **Compositional Approaches in Cognition.** Learning and Reasoning Seminar (online). 15/03/23.  
+
+* **A categorical formulation of Predictive Processing and Active Inference.** Models of Consciousness 2022, Stanford University. 06/09/22. 
+
+* **Category Theory for Consciousness Science (Tutorial).** Models of Consciousness 2022, Pre-Conference Virtual Bootcamp. 30/08/22. 
+
+* **A Categorical Semantics of Fuzzy Concepts in Conceptual Spaces.** Applied Category Theory 2021. 12/07/21. [Video.](https://www.youtube.com/watch?v=We7FuoOCxyA&t=7910s&ab_channel=AppliedCategoryTheory) 
+
 * **Monoidal Categories for Formal Concept Analysis.**
 SEMSPACE 2020. 07/08/20. [Video.](https://www.youtube.com/watch?v=kdAuCyfawrI)
 

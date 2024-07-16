@@ -69,15 +69,19 @@
   {{ $i18n = "more_pages" }}
 {{ end }}
 
-{{ $columns := $st.Params.design.columns | default "2" }}
+<!-- {{ $columns := $st.Params.design.columns | default "2" }} -->
+{{ $columns := "1"}}
+<!-- $st.Params.design.columns | default "2" }} -->
+
 
 <div class="row {{if not $st.Title | or (eq $columns "1") }}justify-content-center{{end}}">
   {{ if $st.Title }}
     {{ if eq $columns "1" }}
-      <div class="col-12 col-lg-8 section-heading text-center">
+      <!-- <div class="col-12 col-lg-8 section-heading text-center"> -->
+<!--         <div class="col-12 col-lg-4 section-heading">
         {{ with $st.Title }}<h1>{{.}}</h1>{{ end }}
         {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
-      </div>
+      </div> -->
     {{else}}
       <div class="col-12 col-lg-4 section-heading">
         {{ with $st.Title }}<h1>{{.}}</h1>{{ end }}
@@ -85,7 +89,11 @@
       </div>
     {{end}}
   {{ end }}
-  <div class="col-12 col-lg-8">
+  <div class="col-12">
+
+     {{ with $st.Title }}<h1>{{.}}</h1>{{ end }}
+        {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
+        <br>
 
     {{ with $st.Content }}{{ . }}{{ end }}
 

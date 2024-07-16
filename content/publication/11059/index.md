@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Picture-perfect Quantum Key Distribution (Pre-print)
+title: Picture-perfect Quantum Key Distribution
 subtitle: ''
 summary: ''
 authors:

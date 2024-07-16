@@ -12,4 +12,6 @@ I took the MMath in Mathematics at the University of Cambridge before completing
 
 From 2018 to 2019 I held postdoctoral positions in the Oxford Quantum group and the School of Informatics at the University of Edinburgh. 
 
-Since December 2019 I have been a researcher in the Oxford branch of [Cambridge Quantum Computing](https://cambridgequantum.com/about/). 
+Since December 2019 I have been a researcher in the Oxford branch of [Quantinuum](https://www.quantinuum.com/) (formerly Cambridge Quantum Computing). 
+
+
