@@ -69,7 +69,7 @@ user_groups:
 - Visitors
 ---
 
-I am a research scientist in the Compositional Intelligence team at [Quantinuum](https://www.quantinuum.com/). In my research I like to apply category theory and string diagrams to formalise various topics across science, including: 
+I am a senior research scientist in the Compositional Intelligence team at [Quantinuum](https://www.quantinuum.com/). In my work I apply category theory and string diagrams to formalise various topics across science, including: 
 
 * Quantum foundations 
 * Interpretability of artificial intelligence 
